@@ -1,3 +1,9 @@
 h1:nth-of-type(1) {
-    color: coral
+    color: coral;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+body {
+    background-color: turquoise;
 }
